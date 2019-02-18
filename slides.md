@@ -84,7 +84,7 @@ at least, less than the costs when not taking into consideration
 
 ### Attack
 
-credential stuffing
+open to credential stuffing
 
 ![](images/02-credentialstuffing.png)
 
