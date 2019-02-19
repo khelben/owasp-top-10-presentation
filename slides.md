@@ -126,7 +126,7 @@ bad session id managment (easily recoverable or reproducable by attacker)
 
 ### Attack
 
-No or weak SSL/TLS, risk for man in the middle attacks
+No or weak SSL/TLS, risk of man in the middle attacks
 
 ![](images/03-2.jpeg)
 
@@ -225,9 +225,9 @@ always use latest patch of all applications / libraries
 
 be aware of what is enabled / accessible to the user
 
-take care of what you disclose to the user (application versions / exception messages)
+perform an external security audit
 
-perform a security check
+take care of what you disclose to the user (application versions / exception messages)
 
 ---
 
@@ -285,6 +285,7 @@ automated scanners can detect this very quickly
 * remove unused dependencies
 * be informed of latest vulnerabilities and patch accordingly
 * beware of unmaintained applications / libraries
+* use vulnerabilities scanners: Snyk,...
 
 ---
 
