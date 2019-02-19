@@ -44,7 +44,7 @@ at least, less than the costs when not taking into consideration
 ## THIS TALK
 
 * explain each topic
-* provide a simple solution for mitigation
+* show means to prevent
 
 ---
 
